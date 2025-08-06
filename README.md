@@ -44,9 +44,9 @@ The dataset (`mymovie.csv`) contains:
 2. Make sure you have Jupyter & required libraries installed
 3. Run the notebook: `Natiflix_Project.ipynb`
 <br>
-PROJECT 2
+**PROJECT 2**
 
-📊 Sales Data Analysis Project
+**📊 Sales Data Analysis Project**
 This project is an Exploratory Data Analysis (EDA) on a sales dataset using Python. It helps understand customer behavior, sales trends, and important insights using data visualization.
 
 🔧 Tools & Libraries Used
